@@ -195,6 +195,27 @@ drop table Project;
 <img width="541" height="227" alt="image" src="https://github.com/user-attachments/assets/70c9e752-6f25-4932-a467-1ce1ab9d1d2b" />
 
 ---
+## 📥📤 I/O Analysis (Input / Output)
+
+### 🔹 Input
+- Department, Employee, and Project table creation queries  
+- Records inserted into all tables using INSERT commands  
+- Update query to modify employee department  
+- Delete queries to remove project and employee records  
+- Role creation and privilege assignment queries  
+- ALTER and DROP table commands  
+
+### 🔹 Output
+- Department, Employee, and Project tables created successfully  
+- Records inserted, updated, and deleted correctly  
+- Referential integrity maintained between tables  
+- Data displayed correctly using SELECT queries  
+- Role-based access verified using GRANT and REVOKE  
+- Table structure modified and Project table dropped successfully  
+
+📸 Screenshots of execution and obtained results are attached.
+
+---
 
 ## 📘 **Learning Outcomes**  
 - Understood the basics of relational database design using tables, keys, and relationships.  
