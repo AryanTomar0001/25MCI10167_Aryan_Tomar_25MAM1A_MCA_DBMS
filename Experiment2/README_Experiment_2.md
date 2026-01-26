@@ -19,6 +19,14 @@ To implement and analyze SQL SELECT queries using filtering, sorting, grouping, 
 
 ---
 
+## 💻 **Software Requirements**
+
+- PostgreSQL (Database Server)  
+- pgAdmin
+- Windows Operating System  
+
+---
+
 ## 📌 **Objective of the Session**  
 - To retrieve specific data using filtering conditions  
 - To sort query results using single and multiple attributes  
