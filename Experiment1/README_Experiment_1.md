@@ -18,7 +18,13 @@
 To design and implement a sample database system using DDL, DML, and DCL commands for managing departments, employees, and projects, and to apply role-based access control for secure data handling.
 
 ---
+## 💻 **Software Requirements**
 
+- PostgreSQL (Database Server)  
+- pgAdmin
+- Windows Operating System  
+
+---
 ## 📌 **Objective of the Session**  
 - To understand the use of DDL commands to create and modify database structures.  
 - To perform DML operations such as INSERT, UPDATE, DELETE, and SELECT.  
@@ -55,6 +61,7 @@ The database is designed to manage Departments, Employees, and Projects within a
 - UNIQUE – to prevent duplicate entries  
 
 ---
+# ⚙️ **Procedure of the Practical**
 
 # ⚙️ **Step 1: Table Creation (DDL)**  
 
